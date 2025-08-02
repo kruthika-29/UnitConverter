@@ -21,9 +21,9 @@ A simple and intuitive **Unit Calculator** built using **HTML**, **CSS**, and **
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Structure and layout  
+- **HTML** – Structure and layout  
 - **CSS3** – Styling and responsiveness  
-- **JavaScript (Vanilla)** – Conversion logic and interactivity
+- **JavaScript** – Conversion logic and interactivity
 
 
 
