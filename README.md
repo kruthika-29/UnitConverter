@@ -29,4 +29,7 @@ A simple and intuitive **Unit Calculator** built using **HTML**, **CSS**, and **
 
 ## 🖼️ Preview
 
-![Unit Calculator Screenshot](preview.png)  
+![Unit Calculator Screenshot](https://github.com/kruthika-29/UnitConverter/blob/main/assets/unitconverterop1.png)  
+
+
+![Unit Calculator Screenshot](https://github.com/kruthika-29/UnitConverter/blob/main/assets/unitconverterop2.png) 
